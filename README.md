@@ -72,7 +72,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Requirements: Your motivation.
 
 ## Intro to nomenclature
-* Event status: Pending
+* Event status: Confirmed
 * When: Wednesday Dec. 2. 11:00 - 12:00 PM CST
 * Where: Zoom link via email via [registration form][1].
 * What: A quick overview of nomenclature curation features and workflows available in TaxonWorks from Texas A&M professor emeritus Jim Woolley with reference to ongoing curation of the Universal Chalcidoidea Database.
@@ -93,7 +93,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Requirements: None.
 
 ## Intro to matrices and observations
-* Event status: Pending
+* Event status: Confirmed
 * When: Thursday Dec. 3 1:00-2:00 PM CST
 * Where: Zoom link via email via [registration form][1].
 * What: A quick overview of creating matrices of observations (descriptive, phylogenetic, quantitative) and the use of image matrices and the multi-entry key engine from Species File Group member Dmitry Dmitriev.
