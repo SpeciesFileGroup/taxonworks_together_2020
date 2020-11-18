@@ -9,7 +9,7 @@ Yes, it's last second, but it's 2020, so nothing should surprise you by this poi
 Taxonomists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is the week to ask them.  Familiarity at some level with TaxonWorks will help during some events, but it’s not required.
 
 # How
-1) Get a Github account (not required, but recommended), an account will help you better participate in many aspects of the community.
+1) Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
 2) [Register and select events of interest](https://forms.gle/U5bKh8WC5zJb4tGQ8).  You'll be emailed Zoom link(s) prior/during the events.
 3) If you want to hack TaxonWorks itself, start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending one or both of the pre-meeting help sessions. 
 4) [Post ideas, requests, questions to be tackled during the week](https://github.com/SpeciesFileGroup/taxonworks_together_2020/issues)
