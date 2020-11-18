@@ -86,7 +86,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Requirements: Be kind to one another.
 
 ## People, I implore you!
-* Event status: Pending
+* Event status: Confirmed
 * When: Thursday. Dec. 3. 9:30-11:30 AM CST
 * Where: Zoom link via email via [registration form][1].
 * What: A broader, outlooking unconference-style conversation about people as data, their disambiguation, and the practical aspects of integrating them in our day to day workflows. Moderated by Debbie Paul. Special guest David Shorthouse from the [Bionomia](https://bionomia.net/) website. There's lots of things we could do, including integration/coding challenges, demos of tools and use of the TaxonWorks people-related code base, etc., but this session is open and truely unconference style.
