@@ -29,13 +29,13 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 ## Last chance setup
 * Event status: Pending
-* When: Monday Nov. 31, 10:00-11:30 AM CST
+* When: Monday Nov. 30, 10:00 - 11:30 AM CST
 * Where: Zoom link via email via [form](1).
 * What: The last chance to get your development environment setup.  Don’t wait till now!  See ‘Pre meeting setup’ 
 
 ## Hello World!
 * Event status: Pending
-* When: Monday Nov. 31, 1:30 - 3:30 PM CST
+* When: Monday Nov. 30, 1:30 - 3:30 PM CST
 * Where: Zoom link via email via [form](1).
 * What: A very basic guided exercise illustrating the simplest path forward to creating a new Task in TaxonWorks. The intent is to turn on the system and create "Hello World" in a TaxonWorks task card, nothing much more. We'll also talk about how we'll share code, and maybe have a little Git tutorial to set the stage for other activities later in the week.
 * Requirements: A working development environment (if you want to follow along, highly recommended), or your curiosity.
@@ -50,7 +50,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 ## Your data, everywhere
 * Event status: Pending
-* When: Tuesday. Dec. 1. 9:30-11:30 AM CST
+* When: Tuesday. Dec. 1. 10:15 - 11:30 AM CST
 * Where: Zoom link via email via [form](1).
 * What: Your data curated in TaxonWorks, out there there in the World. After a lightning fast introduction (e.g. [Matt's TDWG poster](https://static.tdwg.org/conferences/2020/posters/ps_59170_yoder.pdf)) help to find, develop and briefly document as many ways possible to integrate the TaxonWorks [API]() in to other software (e.g. Open Refine, Excel), languages (e.g. R, Ruby, Python), and ecosystems (e.g. Bash shell scripting). We'll have a couple of real-life examples, but this session is up to all of us to figure out how to extend the use of the API.
 * Requirements: Desire to access your data via the API so that you can "do stuff" with it. Your expertise in integrating web-based API calls is needed!
@@ -58,24 +58,24 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 # TaxonWorks end-to-end
 * Event status: Pending
-* When: Tuesday. Dec. 1. 1:30-4:00 AM CST
+* When: Tuesday. Dec. 1. 1:30 - 4:00 AM CST
 * Where: Zoom link via email via [form](1).
 * What: A quick, and somewhat technical overview of the TaxonWorks stack in action with reference to four aspects: 1) the Rails console (exposing TaxonWorks models/environment via an interactive console); 2) API development (how to stub new routes/endpoints); 3) Scripting via Rake tasks (e.g. import, desktop access to code); and 4) unit-testing. Recommended for people with intermediate to advanced technical questions, and for those who want a glimpse of what they could do with their data offline in a development environment.  Includes background for those looking to build out products derived from their data (e.g. visualizations, information pages).
 * Requirements: A TaxonWorks development environment if you wish to play along.  Your technical questions.
 
-## Intro to nomenclature
-* Event status: Pending
-* When: Wednesday Nov. 31 11:00 - 12:00 AM CST
-* Where: Zoom link via email via [form](1).
-* What: A quick overview of nomenclature curation features and workflows available in TaxonWorks from Texas A&M professor emeritus Jim Woolley with reference to ongoing curation of the Universal Chalcidoidea Database.
-* Requirements: None.
-
 ## Open office day
 * Event status: Pending
-* When: Wednesday Dec. 2 9:30-11:00, 1:30-4:30.
+* When: Wednesday Dec. 2. 9:30 - 11:00, 1:30 - 4:30 CST
 * Where: Zoom link via email via [form](1).
 * What: Unconference (really, not a conference, and no planning for the day either). We'll be hanging out on line, all day, to answer your questions, give small tutorials, etc. First come first serve. We'll try and have break out rooms for those of you working on your own project.
 * Requirements: Your motivation.
+
+## Intro to nomenclature
+* Event status: Pending
+* When: Wednesday Dec. 2. 11:00 - 12:00 PM CST
+* Where: Zoom link via email via [form](1).
+* What: A quick overview of nomenclature curation features and workflows available in TaxonWorks from Texas A&M professor emeritus Jim Woolley with reference to ongoing curation of the Universal Chalcidoidea Database.
+* Requirements: None.
 
 ## TaxonWorks Late Nite # 2
 * Event status: Pending
@@ -88,14 +88,14 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Event status: Pending
 * When: Thursday. Dec. 3. 9:30-11:30 AM CST
 * Where: Zoom link via email via [form](1).
-* What: A broader, outlooking unconference-style conversation about people as data, their disambiguation, and the practical aspects of integrating them in our day to day workflows. Moderated by Debbie Paul. Special guest David Shorthouse from the [Bionomia]() project. There's lots of things we could do, including integration/coding challenges, demos of tools and use of the TaxonWorks people-related code base, etc., but this session is open and truely unconference style.
+* What: A broader, outlooking unconference-style conversation about people as data, their disambiguation, and the practical aspects of integrating them in our day to day workflows. Moderated by Debbie Paul. Special guest David Shorthouse from the [Bionomia](https://bionomia.net/) website. There's lots of things we could do, including integration/coding challenges, demos of tools and use of the TaxonWorks people-related code base, etc., but this session is open and truely unconference style.
 * Requirements: None.
 
 ## Intro to matrices and observations
 * Event status: Pending
 * When: Thursday Dec. 3 1:00-2:00 PM CST
 * Where: Zoom link via email via [form][1].
-* What: A quick overview of creating matrices of observations (descriptive, phylogenetic, quantitative) and the use of image matrices and the multi-entry key engine from Species File Group membmer Dmitry Dmitriev.
+* What: A quick overview of creating matrices of observations (descriptive, phylogenetic, quantitative) and the use of image matrices and the multi-entry key engine from Species File Group member Dmitry Dmitriev.
 * Requirements: None.
 
 ## TaxonWorks Documentation blitz
@@ -114,7 +114,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 ## Wrap up
 * Event status: Confirmed
-* When: Friday. Dec. 4. 1:30-2:30 AM CST
+* When: Friday. Dec. 4. 1:30-2:30 PM CST
 * Where: Zoom link via email via [form](1).
 * What: Show and tell, next steps, debriefing and feedback time.
 * Requirements: None.
