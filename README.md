@@ -118,7 +118,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * What: Show and tell, next steps, debriefing and feedback time.
 * Requirements: None.
 
-[1]: [link to registration form](https://forms.gle/U5bKh8WC5zJb4tGQ8)
+[1]: https://forms.gle/U5bKh8WC5zJb4tGQ8
 [2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [3]: https://badges.gitter.im/SpeciesFileGroup/taxonworks.svg
 
