@@ -58,14 +58,14 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 # TaxonWorks end-to-end
 * Event status: Pending
-* When: Tuesday. Dec. 1. 1:30 - 4:00 AM CST
+* When: Tuesday. Dec. 1. 1:30 - 4:00 PM CST
 * Where: Zoom link via email via [form](1).
 * What: A quick, and somewhat technical overview of the TaxonWorks stack in action with reference to four aspects: 1) the Rails console (exposing TaxonWorks models/environment via an interactive console); 2) API development (how to stub new routes/endpoints); 3) Scripting via Rake tasks (e.g. import, desktop access to code); and 4) unit-testing. Recommended for people with intermediate to advanced technical questions, and for those who want a glimpse of what they could do with their data offline in a development environment.  Includes background for those looking to build out products derived from their data (e.g. visualizations, information pages).
 * Requirements: A TaxonWorks development environment if you wish to play along.  Your technical questions.
 
 ## Open office day
 * Event status: Pending
-* When: Wednesday Dec. 2. 9:30 - 11:00, 1:30 - 4:30 CST
+* When: Wednesday Dec. 2. 9:30 - 11:00 AM, 1:30 - 4:30 PM CST
 * Where: Zoom link via email via [form](1).
 * What: Unconference (really, not a conference, and no planning for the day either). We'll be hanging out on line, all day, to answer your questions, give small tutorials, etc. First come first serve. We'll try and have break out rooms for those of you working on your own project.
 * Requirements: Your motivation.
