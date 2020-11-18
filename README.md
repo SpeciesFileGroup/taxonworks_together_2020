@@ -1,19 +1,18 @@
 # TaxonWorks Together 2020
 
-Agenda, notes, planning, etc. for TaxonWorks Together 2020.
+Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat now! [![Gitter][3]][2] or open an issue here.
 
 # What
-
 Yes, it's last second, but it's 2020, so nothing should surprise you by this point!  _TaxonWorks Together_ is a week (Nov. 31-Dec. 4th) of events focused on building up the [TaxonWorks](http://taxonworks.org) community.  In this first year we'll focus on technical aspects of the software, but there are also lots of opportunities to ask questions, meet others and learn about TaxonWorks. These activities are open events (to the extent technically possible), your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
 
 # Who
 Taxonomists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is the week to ask them.  Familiarity at some level with TaxonWorks will help during some events, but it’s not required.
 
 # How
-Here already?  Open an issue with your ideas, questions, or insights.  We'll rapidly evolve and describe routes to participating including linking out to a form to "register" your interest. We do a lot with Github, an account will help you better participate in many aspects of the community, we recommend you have one.
-  * [GitHub account signup](https://github.com/)
-  * [Register and select events of interest](https://forms.gle/U5bKh8WC5zJb4tGQ8)  
-  * [Post ideas, requests, questions to be tackled during the week](https://github.com/SpeciesFileGroup/taxonworks_together_2020/issues)
+1) Get a Github account (not required, but recommended), an account will help you better participate in many aspects of the community.
+2) [Register and select events of interest](https://forms.gle/U5bKh8WC5zJb4tGQ8).  You'll be emailed Zoom link(s) prior/during the events.
+3) If you want to hack TaxonWorks itself, start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending one or both of the pre-meeting help sessions. 
+4) [Post ideas, requests, questions to be tackled during the week](https://github.com/SpeciesFileGroup/taxonworks_together_2020/issues)
 
 # Events
 
@@ -120,4 +119,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Requirements: None.
 
 [1]: [link to registration form](https://forms.gle/U5bKh8WC5zJb4tGQ8)
+[2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[3]: https://badges.gitter.im/SpeciesFileGroup/taxonworks.svg
+
 
