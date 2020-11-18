@@ -37,7 +37,8 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * When: Monday Nov. 30, 1:30 - 3:30 PM CST
 * Where: Zoom link via email via [registration form][1].
 * What: A very basic guided exercise illustrating the simplest path forward to creating a new Task in TaxonWorks. The intent is to turn on the system and create "Hello World" in a TaxonWorks task card, nothing much more. We'll also talk about how we'll share code, and maybe have a little Git tutorial to set the stage for other activities later in the week.
-* Requirements: A working development environment (if you want to follow along, highly recommended), or your curiosity.
+* Requirements: Your curiosity.
+* HINT: Best with a working development environment if you want to follow along, highly recommended
 
 ## Intro to digitization
 * Event status: Pending
@@ -60,7 +61,8 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * When: Tuesday. Dec. 1. 1:30 - 4:00 PM CST
 * Where: Zoom link via email via [registration form][1].
 * What: A quick, and somewhat technical overview of the TaxonWorks stack in action with reference to four aspects: 1) the Rails console (exposing TaxonWorks models/environment via an interactive console); 2) API development (how to stub new routes/endpoints); 3) Scripting via Rake tasks (e.g. import, desktop access to code); and 4) unit-testing. Recommended for people with intermediate to advanced technical questions, and for those who want a glimpse of what they could do with their data offline in a development environment.  Includes background for those looking to build out products derived from their data (e.g. visualizations, information pages).
-* Requirements: A TaxonWorks development environment if you wish to play along.  Your technical questions.
+* Requirements: Your desire to learn, experiment, or ask technical questions
+* HINT: Best with a working development environment
 
 ## Open office day
 * Event status: Pending
@@ -81,7 +83,7 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * When: Wednesday Dec. 2. 8:00-? PM CST
 * Where: Zoom link via email via [registration form][1].
 * What: Chill, ask questions, discuss the future, request features, have fun with fellow community members. Bring your own beverage.
-* Requirements: None.
+* Requirements: Be kind to one another.
 
 ## People, I implore you!
 * Event status: Pending
@@ -103,13 +105,15 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * Where: Zoom link via email via [registration form][1].
 * What: Help plan, and document TaxonWorks. A discussion of the current state of documentation, what to do moving forward, and more.  We'll also try to actually _write some documentation_ to help those looking to contribute in this manner.  Includes opportunities for exploring and contributing to multi-language support.
 * Requirements: Your writing, organization, and translation skills.
+* HINT: A working development environment means the help you provide have the potential to go live very quickly
  
 ## Take your user to work day
 * Event status: Confirmed
 * When: Friday. Dec. 4. 9:30-11:30 AM CST
 * Where: Zoom link via email via [registration form][1].
 * What: Come to work with Matt & José, challenge them with a new feature request, and watch them live code the idea into a perfectly polished, flawless, ready for production feature (well, maybe not that last bit, but you get the idea). If you're curious about the interplay between the backend (JSON serving) and frontend (Vue.js) this is the opportunity to get a glimpse of those interactions.  You'll also gain some understanding of the TaxonWorks models/concepts and their use in an interactive interface.
-* Requirements: None.
+* Requirements: Your creativity and curiousity
+* HINT: A working development environment unlocks the possibility of helping your fellow users in real-time
 
 ## Wrap up
 * Event status: Confirmed
