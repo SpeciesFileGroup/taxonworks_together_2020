@@ -122,6 +122,13 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 * What: Show and tell, next steps, debriefing and feedback time.
 * Requirements: None.
 
+---
+### Brought to you by
+* The Species File Group (SFG) - a software collaborative group building tools that facilitate cataloging, description, and study of the Earth’s species.
+  - [Intro to the Species File Group](https://speciesfilegroup.org/)
+  - [About the SFG](https://speciesfilegroup.org/about)
+  - [The SFG Team](https://speciesfilegroup.org/who.html)
+  
 [1]: https://forms.gle/U5bKh8WC5zJb4tGQ8
 [2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [3]: https://badges.gitter.im/SpeciesFileGroup/taxonworks.svg
