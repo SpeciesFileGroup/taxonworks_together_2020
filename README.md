@@ -16,7 +16,7 @@ Taxonomists, curators, collection managers, software developers, biodiversity in
 
 # Events
 
-_All events are pending until `Event status` reads `Confirmed`.  All events will have time at the beginning, end end (and pending type throughout) for questions and answers._
+_All events are pending until `Event status` reads `Confirmed`.  All events will have time at the beginning and end (and pending type throughout) for questions and answers._
 
 ## Pre meeting setup
 * Event status: Pending
