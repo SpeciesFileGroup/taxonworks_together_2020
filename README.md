@@ -20,6 +20,7 @@ Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat no
 * [Take your user to work day](https://github.com/SpeciesFileGroup/taxonworks_together_2020#take-your-user-to-work-day)
 * [Wrap up](https://github.com/SpeciesFileGroup/taxonworks_together_2020#wrap-up)
 * [Brought to you by](https://github.com/SpeciesFileGroup/taxonworks_together_2020#brought-to-you-by)
+* [Relevant links](https://github.com/SpeciesFileGroup/taxonworks_together_2020/blob/main/README.md#relevant-links)
 
 
 # What
