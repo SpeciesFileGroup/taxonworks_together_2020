@@ -25,6 +25,8 @@ Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat no
 
 # What
 Yes, it's last second, but it's 2020, so nothing should surprise you by this point!  _TaxonWorks Together_ is a week (Nov. 31-Dec. 4th) of events focused on building up the [TaxonWorks](http://taxonworks.org) community.  In this first year we'll focus on technical aspects of the software, but there are also lots of opportunities to ask questions, meet others and learn about TaxonWorks. These activities are open events (to the extent technically possible), your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
+ - #### Questions
+   Send email to dlpaul AT illinois DOT edu
 
 # Who
 Taxonomists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is the week to ask them.  Familiarity at some level with TaxonWorks will help during some events, but it’s not required.
