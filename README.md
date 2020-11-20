@@ -148,6 +148,9 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
   - [Intro to the Species File Group](https://speciesfilegroup.org/)
   - [About the SFG](https://speciesfilegroup.org/about)
   - [The SFG Team](https://speciesfilegroup.org/who.html)
+
+### Relevant links
+* [TaxonWorks GitHub repo](https://github.com/SpeciesFileGroup/taxonworks)
   
 [1]: https://forms.gle/U5bKh8WC5zJb4tGQ8
 [2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
