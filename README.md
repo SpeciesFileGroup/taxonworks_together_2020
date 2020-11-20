@@ -2,6 +2,26 @@
 
 Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat now on [![Gitter][3]][2] or open an issue here.
 
+### Table of Contents
+[What](https://github.com/SpeciesFileGroup/taxonworks_together_2020#what) -- [Who](https://github.com/SpeciesFileGroup/taxonworks_together_2020#who) -- [How](https://github.com/SpeciesFileGroup/taxonworks_together_2020#how)  
+[Events](https://github.com/SpeciesFileGroup/taxonworks_together_2020#events)  
+* [Pre meeting setup](https://github.com/SpeciesFileGroup/taxonworks_together_2020#pre-meeting-setup)
+* [Last chance setup](https://github.com/SpeciesFileGroup/taxonworks_together_2020#last-chance-setup)
+* [Hello World!](https://github.com/SpeciesFileGroup/taxonworks_together_2020#hello-world)
+* [Intro to digitization](https://github.com/SpeciesFileGroup/taxonworks_together_2020#intro-to-digitization)
+* [Your data, everywhere](https://github.com/SpeciesFileGroup/taxonworks_together_2020#your-data-everywhere)
+* [TaxonWorks end-to-end](https://github.com/SpeciesFileGroup/taxonworks_together_2020#taxonworks-end-to-end)
+* [Open office day](https://github.com/SpeciesFileGroup/taxonworks_together_2020#open-office-day)
+* [Intro to nomenclature](https://github.com/SpeciesFileGroup/taxonworks_together_2020#intro-to-nomenclature)
+* [TaxonWorks Late Nite #2](https://github.com/SpeciesFileGroup/taxonworks_together_2020#taxonworks-late-nite--2)
+* [People, I implore you!](https://github.com/SpeciesFileGroup/taxonworks_together_2020#people-i-implore-you)
+* [Intro to matrices and observations](https://github.com/SpeciesFileGroup/taxonworks_together_2020#intro-to-matrices-and-observations)
+* [TaxonWorks Documentation blitz](https://github.com/SpeciesFileGroup/taxonworks_together_2020#taxonworks-documentation-blitz)
+* [Take your user to work day](https://github.com/SpeciesFileGroup/taxonworks_together_2020#take-your-user-to-work-day)
+* [Wrap up](https://github.com/SpeciesFileGroup/taxonworks_together_2020#wrap-up)
+* [Brought to you by](https://github.com/SpeciesFileGroup/taxonworks_together_2020#brought-to-you-by)
+
+
 # What
 Yes, it's last second, but it's 2020, so nothing should surprise you by this point!  _TaxonWorks Together_ is a week (Nov. 31-Dec. 4th) of events focused on building up the [TaxonWorks](http://taxonworks.org) community.  In this first year we'll focus on technical aspects of the software, but there are also lots of opportunities to ask questions, meet others and learn about TaxonWorks. These activities are open events (to the extent technically possible), your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
 
