@@ -1,6 +1,6 @@
 # TaxonWorks Together 2020
 
-Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat now on [![Gitter][3]][2] or open an issue here.
+Agenda, notes, planning, etc. for TaxonWorks Together 2020.  Questions?  Chat now on [![Gitter][3]][2] or open an issue [here](https://github.com/SpeciesFileGroup/taxonworks_together_2020/issues).
 
 ### Table of Contents
 [What](https://github.com/SpeciesFileGroup/taxonworks_together_2020#what) -- [Who](https://github.com/SpeciesFileGroup/taxonworks_together_2020#who) -- [How](https://github.com/SpeciesFileGroup/taxonworks_together_2020#how)  
@@ -154,6 +154,8 @@ _All events are pending until `Event status` reads `Confirmed`.  All events will
 
 ### Relevant links
 * [TaxonWorks GitHub repo](https://github.com/SpeciesFileGroup/taxonworks)
+* [TaxonWorks Together 2020 - Google Doc Notes](https://bit.ly/taxonworks2020)
+  - short URL https://bit.ly/taxonworks2020
   
 [1]: https://forms.gle/U5bKh8WC5zJb4tGQ8
 [2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
